@@ -22,8 +22,8 @@ A Python notebook that simulates a panel discussion between three AI personas wi
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd <repository-name>
+git clone https://github.com/furkan-kilinc/three_llm_chat.git
+cd three_llm_chat
 ```
 
 2. Install required packages:
